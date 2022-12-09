@@ -20,3 +20,4 @@ We have used sklearn, pandas, matplotlib, plotly libraries to visualize data wit
 
 The detected anomalies percentage was 0.61%.
 
+The notebook can be found in the project branch
