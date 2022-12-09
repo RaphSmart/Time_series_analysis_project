@@ -1,8 +1,8 @@
 # Time series analysis
 
-Group members:
+**Group members:**
 
-Surya teja Sista,                                                                                                                                                     
+Surya Teja Sista,                                                                                                                                                     
 Raphael Abba Ekwo
 
 
