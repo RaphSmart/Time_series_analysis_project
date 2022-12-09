@@ -1,8 +1,10 @@
 # Time series analysis
 
 Group members:
+
 Surya teja Sista
 Raphael Abba Ekwo
+
 
 This is a project on Time series analysis. This project aim at detecting anomalies in data. 
 we have used the nyc_taxi.csv "https://www.kaggle.com/datasets/gauravduttakiit/new-york-taxi" dataset from kaggle. 
