@@ -18,5 +18,5 @@ The New York City Taxi dataset contains just two columns, the timestamp and valu
 We have used sklearn, pandas, matplotlib, plotly libraries to visualize data with anomalies.
 
 
-The anomalies percentage detected was 0.61%.
+The detected anomalies percentage was 0.61%.
 
