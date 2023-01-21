@@ -20,4 +20,4 @@ We have used sklearn, pandas, matplotlib libraries to visualize data with anomal
 
 The original anomalies percentage was 5.868%.
 
-The notebook can be found in the project branch
+The notebooks can be found in the project folder
